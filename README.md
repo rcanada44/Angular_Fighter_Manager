@@ -1,2 +1,2 @@
 # Angular_Fighter_Manager
-Angular-Based Sports Application 
+Angular-Based Sports Web Application 
